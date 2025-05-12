@@ -13,15 +13,11 @@ Add a description of a maximum of two sentences describing the most important ch
 
 ## Link to ticket
 
-[Jira ticket title](https://abra-nl.atlassian.net)
+[ABRA-1520](https://abra-nl.atlassian.net/jira/software/projects/ABRA/boards/4?selectedIssue=[ISSUE_NUMBER])
 
 ## Link to documentation
 
 [Confluence documentation link](https://abra-nl.atlassian.net)
-
-## Link to test environment
-
-[Link to env](https://branch-name.abra.ai)
 
 ## How to test
 
